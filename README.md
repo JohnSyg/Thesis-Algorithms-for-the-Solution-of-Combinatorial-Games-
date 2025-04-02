@@ -11,3 +11,6 @@ also Reversal Penalty), Branch-And-Bound Search (B&B) and Iterative-Deepening
 Search (IDS) for solving the 8-Puzzle and similarly the determination of the most
 ideal algorithm among the aforementioned for finding the shortest path of the knight
 pawn on a chessboard with N × N dimensions.
+
+# Provided Files
+You are provided with the individual files for assessment, as well as zipped versions that group them as intended, allowing you to test them easily on your system.
