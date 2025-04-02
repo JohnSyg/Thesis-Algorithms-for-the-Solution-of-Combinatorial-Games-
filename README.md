@@ -1,1 +1,10 @@
-# Thesis-Algorithms-for-the-Solution-of-Combinatorial-Games-
+# Thesis-Algorithms for the Solution of Combinatorial Games
+
+Το θέμα στο οποίο επικεντρώνεται η συγκεκριμένη διπλωματική είναι τα συνδυαστικά παιχνίδια, μία υποκατηγορία των συνδυαστικών προβλημάτων βελτιστοποίησης. Ο καθορισμός της ιδανικής κίνησης με βάση τη διαθέσιμη πληροφορία που
+έχει τη δεδομένη στιγμή ο παίκτης είναι το κύριο πρόβλημα με το οποίο ασχολείται
+ο κλάδος. Με βάση αυτό λοιπόν, τα προβλήματα που μελετούνται είναι η αήττητη
+υλοποίηση ενός Min-Max πράκτορα για το παιχνίδι της τρίλιζας, η σύγκριση των
+Min-Max και Alpha-Beta Pruning στο παιχνίδι Connect-4, ο καθορισμός του ιδανικότερου αλγορίθμου μεταξύ των Breadth-First Search (BFS), Depth-First Search
+(DFS), A* (με Manhattan Distance ως Heuristic), A* (με Manhattan Distance ως
+Heuristic αλλά και Reversal Penalty), Branch-And-Bound Search (B&B) και IterativeDeepening Search (IDS) για την επίλυση του 8-Puzzle και ομοίως ο καθορισμός του
+ιδανικότερου αλγορίθμου μεταξύ των προαναφερόμενων για την εύρεση του συντομότερου μονοπατιού του ιππότη πάνω σε μία σκακιέρα με Ν × Ν διαστάσεις.
