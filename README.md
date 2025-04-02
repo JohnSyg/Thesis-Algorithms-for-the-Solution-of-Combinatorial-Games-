@@ -1,4 +1,4 @@
-# Thesis-Algorithms for the Solution of Combinatorial Games
+# Thesis-Algorithms for the Solution of Combinatorial Games:
 
 The topic on which this thesis focuses is combinatorial games, a subclass of
 combinatorial optimization problems. Determining the ideal move based on the information
